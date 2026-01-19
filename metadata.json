@@ -1,0 +1,8 @@
+
+{
+  "name": "Artistry - Furry Art Commissions",
+  "description": "A vibrant and inclusive digital art commission platform specializing in furry characters, comic panels, and custom illustrations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
